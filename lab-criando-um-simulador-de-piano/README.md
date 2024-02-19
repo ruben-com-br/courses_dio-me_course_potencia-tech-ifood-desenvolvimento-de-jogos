@@ -20,8 +20,8 @@ Projeto desenvolvido durante o Bootcamp [Potência Tech iFood - Desenvolvimento 
 ## 🖥 Preview:
 
 <p align="center">
-  <img src="screenshot01.png" title="screenshot" alt="screenshot do jogo">
-  <img src="screenshot02.png" title="screenshot" alt="screenshot do jogo">
+  <img src="/lab-criando-um-simulador-de-piano/src/images/screenshot01.png" title="screenshot" alt="screenshot do jogo">
+  <img src="/lab-criando-um-simulador-de-piano/src/images/screenshot02.png" title="screenshot" alt="screenshot do jogo">
 </p>
 
 ## 📌 Créditos:
