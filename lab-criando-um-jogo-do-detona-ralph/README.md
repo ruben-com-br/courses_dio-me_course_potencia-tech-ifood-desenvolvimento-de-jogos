@@ -1,6 +1,6 @@
 # Detona Ralph js
 
-![Detona Ralph js](/src/images/share.png)
+![Detona Ralph js](/lab-criando-um-jogo-do-detona-ralph/src/images/share.png)
 
 ## Sobre o projeto
 Projeto de game feito para o bootcamp [Potência Tech iFood - Desenvolvimento de Jogos](https://web.dio.me/track/potencia-tech-ifood-desenvolvimento-de-jogos?ref=CG&utm_source=ativos-90D&utm_medium=plataforma&utm_campaign=ifood-potencia-tech-2023&utm_term=banner-modal&utm_content=trilha-jogos-inscricoes-abertas), parceria da plataforma [iFood](https://www.ifood.com.br/) com a comunidade de aprendizado [DIO](https://web.dio.me).
